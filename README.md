@@ -25,15 +25,20 @@ In a simpler form the circuit may contain a voltage source VS having internal re
 The maximum power transfer theorem tells us that the load should be equal in magnitude to the source resistance for maximum power to be absorbed by the load.
 
 **CIRCUIT DIAGRAM: FOR MAXIMUM POWER TRANSFER THEOREM:**
+![WhatsApp Image 2026-03-17 at 7 07 11 PM](https://github.com/user-attachments/assets/e3dba9d5-b1a4-40d6-b3a1-a61b627e6908)
+
 
 
 **MODEL GRAPH:**
+![WhatsApp Image 2026-03-17 at 7 08 16 PM](https://github.com/user-attachments/assets/487ba28b-567f-4a23-974e-fa22cb02e949)
+
 
 Resistance (RL) in ohm
 
 **TABULATION:**
  
 **TABLE (1) :FOR THEORETICAL CALCULATION: Rth =750 Ω**
+![WhatsApp Image 2026-03-17 at 7 09 09 PM](https://github.com/user-attachments/assets/591e0442-2c86-49ed-8538-cb2f12b93323)
 
 S.No	Load
 Resistance(RL) in ohm	Load
@@ -47,6 +52,8 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 
 **TABLE (2): FOR PRACTICAL CALCULATION**
+![WhatsApp Image 2026-03-17 at 7 09 46 PM](https://github.com/user-attachments/assets/9a0a4c5c-1026-410e-8aaf-6ad2a0768f59)
+
 
 S.No	Load
 Resistance(RL) in ohm	Load
@@ -60,6 +67,8 @@ voltage (VL) in volts	Load Power (PL) in watts
 
 
 **MODEL CALCULATION:**
+![WhatsApp Image 2026-03-17 at 7 11 12 PM](https://github.com/user-attachments/assets/3fb36611-8118-4184-8554-d4c49d8f16e1)
+
 
 **PROCEDURE:**
 
@@ -70,6 +79,8 @@ voltage (VL) in volts	Load Power (PL) in watts
 3.	Plot a graph between RL and PL and find the RL corresponding to maximum power transfer.
 
 4.	Verify the measured values of RL at maximum power transfer as same as calculated and found graphically.
+**MARKS SPILT UP **
+![WhatsApp Image 2026-03-17 at 7 13 58 PM](https://github.com/user-attachments/assets/25e16e76-b592-402b-b04e-fbea0e8b9d6e)
 
 **RESULT:**
 
